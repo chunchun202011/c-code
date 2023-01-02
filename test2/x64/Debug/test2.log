@@ -1,0 +1,4 @@
+﻿  test.c
+D:\drc\c\learn\test2\test.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\drc\c\learn\test2\test.c(12,9): message : consider using '%zd' in the format string
+  test2.vcxproj -> D:\drc\c\learn\test2\x64\Debug\test2.exe
