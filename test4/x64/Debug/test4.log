@@ -1,0 +1,2 @@
+﻿  test.c
+LINK : fatal error LNK1168: cannot open D:\drc\c\learn\test4\x64\Debug\test4.exe for writing
