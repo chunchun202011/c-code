@@ -1,0 +1,3 @@
+﻿  game.c
+D:\drc\c\learn\game1\game.c(82,7): warning C4013: 'rand' undefined; assuming extern returning int
+  game1.vcxproj -> D:\drc\c\learn\game1\x64\Debug\game1.exe
