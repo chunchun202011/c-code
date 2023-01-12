@@ -1,0 +1,18 @@
+﻿  test.c
+D:\drc\c\learn\test10\test.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\drc\c\learn\test10\test.c(11,9): message : consider using '%zd' in the format string
+D:\drc\c\learn\test10\test.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\drc\c\learn\test10\test.c(12,9): message : consider using '%zd' in the format string
+D:\drc\c\learn\test10\test.c(14,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\drc\c\learn\test10\test.c(14,9): message : consider using '%zd' in the format string
+D:\drc\c\learn\test10\test.c(15,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\drc\c\learn\test10\test.c(15,9): message : consider using '%zd' in the format string
+D:\drc\c\learn\test10\test.c(17,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\drc\c\learn\test10\test.c(17,9): message : consider using '%zd' in the format string
+D:\drc\c\learn\test10\test.c(18,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\drc\c\learn\test10\test.c(18,9): message : consider using '%zd' in the format string
+D:\drc\c\learn\test10\test.c(20,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\drc\c\learn\test10\test.c(20,9): message : consider using '%zd' in the format string
+D:\drc\c\learn\test10\test.c(21,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\drc\c\learn\test10\test.c(21,9): message : consider using '%zd' in the format string
+  test10.vcxproj -> D:\drc\c\learn\test10\x64\Debug\test10.exe
