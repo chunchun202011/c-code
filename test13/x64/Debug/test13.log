@@ -1,0 +1,3 @@
+﻿  test.c
+D:\drc\c\learn\test13\test.c(18,6): warning C4101: 'arr1': unreferenced local variable
+  test13.vcxproj -> D:\drc\c\learn\test13\x64\Debug\test13.exe
