@@ -1,0 +1,6 @@
+﻿  test.c
+D:\drc\c\wengk\test7\test.c(21,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+D:\drc\c\wengk\test7\test.c(21,9): message : consider using '%zu' in the format string
+D:\drc\c\wengk\test7\test.c(22,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+D:\drc\c\wengk\test7\test.c(22,9): message : consider using '%zu' in the format string
+  test7.vcxproj -> D:\drc\c\wengk\test7\x64\Debug\test7.exe
