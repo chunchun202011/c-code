@@ -1,0 +1,4 @@
+﻿  test.c
+D:\drc\c\wengk\test12\test.c(41,16): warning C4133: 'function': incompatible types - from 'char [7]' to 'const point *'
+D:\drc\c\wengk\test12\test.c(41,18): warning C4020: 'print': too many actual parameters
+  test12.vcxproj -> D:\drc\c\wengk\test12\x64\Debug\test12.exe
