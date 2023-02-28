@@ -1,0 +1,5 @@
+﻿  linked_list.c
+D:\drc\c\wengk\test14\linked_list.c(27,13): warning C4133: 'function': incompatible types - from 'List *' to 'Node *'
+D:\drc\c\wengk\test14\linked_list.c(41,16): warning C4028: formal parameter 1 different from declaration
+D:\drc\c\wengk\test14\linked_list.c(65,20): warning C4098: 'add': 'void' function returning a value
+  test14.vcxproj -> D:\drc\c\wengk\test14\x64\Debug\test14.exe
